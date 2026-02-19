@@ -2,4 +2,4 @@
 japaneseflagcss.netlify.app
 
 # preview image:
-![Alt Text](japanese flag css screenshot.png)
+![Alt Text](screenshot.png)
