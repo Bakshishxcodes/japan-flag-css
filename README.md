@@ -1,5 +1,5 @@
 # here is the link:
-[My Portfolio](japaneseflagcss.netlify.app)
+[link](https://japaneseflagcss.netlify.app)
 
 # preview image:
 ![Alt Text](screenshot.png)
